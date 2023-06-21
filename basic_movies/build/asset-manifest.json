@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/basic_movies_frontend/static/css/main.334bdeb1.css",
+    "main.js": "/basic_movies_frontend/static/js/main.db9b44da.js",
+    "index.html": "/basic_movies_frontend/index.html",
+    "static/media/search.svg": "/basic_movies_frontend/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/basic_movies_frontend/static/css/main.334bdeb1.css.map",
+    "main.db9b44da.js.map": "/basic_movies_frontend/static/js/main.db9b44da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.db9b44da.js"
+  ]
+}
